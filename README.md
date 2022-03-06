@@ -1,4 +1,4 @@
-# Cómo se usa la etiqueta &lt;figure&gt; y &lt;figcaption&gt; en HTML
+# Etiquetas &lt;h1&gt; al &lt;h6&gt; en HTML
 
 
 👋 Bienvenidos a CodingTube, un canal dedicado a los apasionados por el código. Si te gusta programar y quieres aprender más acerca de este fascinante mundo, estás en el lugar indicado.
